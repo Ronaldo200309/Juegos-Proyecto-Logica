@@ -132,13 +132,3 @@ main {
 .disabled {
     display: none;
 }
-footer {
-    margin-top: auto;
-    text-align: center;
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    background-color: #90d5f3;
-    border: none;
-    border-radius: 5px;
-}
